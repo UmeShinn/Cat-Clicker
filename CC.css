@@ -1,4 +1,11 @@
 body {
     background-color: rgb(10, 212, 239);
+    font-size: 4ch;
+    
+}
+
+p{
+    color: #dd1313;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
